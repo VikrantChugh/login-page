@@ -1,11 +1,13 @@
 Login-page
-![image](https://github.com/VikrantChugh/login-page/assets/124357732/172334d0-8f3e-4c76-bb51-7f2e28995113)
+![image](https://github.com/VikrantChugh/login-page/assets/124357732/f7746010-b8f6-41a2-aeae-f2d21ad0fb92)
+
 
 
 Registration-page
-![image](https://github.com/VikrantChugh/login-page/assets/124357732/f3e2ca1e-3bd0-41af-a788-a959f16463c9)
+![image](https://github.com/VikrantChugh/login-page/assets/124357732/9cbf51ca-5d36-4ea2-b9e2-fabc97060755)
+
 
 Dashboard-page
+![image](https://github.com/VikrantChugh/login-page/assets/124357732/4c91626f-d737-40ea-9e52-bb541a0121b7)
 
-![image](https://github.com/VikrantChugh/login-page/assets/124357732/30c21cf2-909b-4e00-a55c-4274b40e5154)
 
